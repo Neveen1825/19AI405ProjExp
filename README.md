@@ -16,8 +16,8 @@
 
 ## Program :
 ```
-Developed by: ALIYA SHEEMA
-Reg No: 212223230011
+Developed by: Naveenkanthan L
+Reg No: 212223230138
 ```
 ```
 M = 9
